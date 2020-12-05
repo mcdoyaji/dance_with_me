@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Dance with Me</title>
+    <link href="https://mcdoyaji.github.io/dance_with_me/feed.xml" rel="self" />
+    <link href="https://mcdoyaji.github.io/dance_with_me" />
+    <updated>2020-12-06T01:36:18+09:00</updated>
+    <author>
+        <name>훈복</name>
+    </author>
+    <id>https://mcdoyaji.github.io/dance_with_me</id>
+
+    <entry>
+        <title>첫 글</title>
+        <author>
+            <name>훈복</name>
+        </author>
+        <link href="https://mcdoyaji.github.io/dance_with_me/eoddeol-geul.html"/>
+        <id>https://mcdoyaji.github.io/dance_with_me/eoddeol-geul.html</id>
+
+        <updated>2020-12-06T01:36:18+09:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mcdoyaji.github.io/dance_with_me/media/posts/4/lukas-medvedevas-BaMa7vAHqE4-unsplash-2.jpg" alt="" />
+                    조금 길게 쓰고 싶은 이야기를 남기는 공간으로 이 블로그를 만들었다. 글을 쓰는 이유는, 나 자신을 위해서. 난 잘 잊어버리기 때문에, 그때 그때의 내가 기록을남겨서, 나중에 잊어버렸는데 또 알고자 하는 나에게 도움을 주려고한다.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mcdoyaji.github.io/dance_with_me/media/posts/4/lukas-medvedevas-BaMa7vAHqE4-unsplash-2.jpg" alt="" />
+                <p>조금 길게 쓰고 싶은 이야기를 남기는 공간으로 이 블로그를 만들었다. </p>
+<p>글을 쓰는 이유는, 나 자신을 위해서. 난 잘 잊어버리기 때문에, 그때 그때의 내가 기록을남겨서, 나중에 잊어버렸는데 또 알고자 하는 나에게 도움을 주려고한다.</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>

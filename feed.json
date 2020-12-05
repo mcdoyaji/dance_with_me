@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Dance with Me",
+    "description": "",
+    "home_page_url": "https://mcdoyaji.github.io/dance_with_me",
+    "feed_url": "https://mcdoyaji.github.io/dance_with_me/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "훈복"
+    },
+    "items": [
+        {
+            "id": "https://mcdoyaji.github.io/dance_with_me/eoddeol-geul.html",
+            "url": "https://mcdoyaji.github.io/dance_with_me/eoddeol-geul.html",
+            "title": "첫 글",
+            "summary": "조금 길게 쓰고 싶은 이야기를 남기는 공간으로 이 블로그를 만들었다. 글을 쓰는 이유는, 나 자신을 위해서. 난 잘 잊어버리기 때문에, 그때 그때의 내가 기록을남겨서, 나중에 잊어버렸는데 또 알고자 하는 나에게 도움을 주려고한다.",
+            "content_html": "<p>조금 길게 쓰고 싶은 이야기를 남기는 공간으로 이 블로그를 만들었다. </p>\n<p>글을 쓰는 이유는, 나 자신을 위해서. 난 잘 잊어버리기 때문에, 그때 그때의 내가 기록을남겨서, 나중에 잊어버렸는데 또 알고자 하는 나에게 도움을 주려고한다.</p>\n",
+            "image": "https://mcdoyaji.github.io/dance_with_me/media/posts/4/lukas-medvedevas-BaMa7vAHqE4-unsplash-2.jpg",
+            "author": {
+                "name": "훈복"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-12-06T01:23:46+09:00",
+            "date_modified": "2020-12-06T01:36:18+09:00"
+        }
+    ]
+}
