@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Dance with Me</title>
+    <title>나랑 같이 춤추자</title>
     <link href="https://mcdoyaji.github.io/dance_with_me/feed.xml" rel="self" />
     <link href="https://mcdoyaji.github.io/dance_with_me" />
-    <updated>2020-12-07T01:06:12+09:00</updated>
+    <updated>2020-12-07T01:12:18+09:00</updated>
     <author>
         <name>훈복</name>
     </author>
@@ -56,7 +56,7 @@
         <link href="https://mcdoyaji.github.io/dance_with_me/beulpeuddae-cungdong-gumaehan-hadeu-ceori.html"/>
         <id>https://mcdoyaji.github.io/dance_with_me/beulpeuddae-cungdong-gumaehan-hadeu-ceori.html</id>
 
-        <updated>2020-12-07T01:04:11+09:00</updated>
+        <updated>2020-12-07T01:12:18+09:00</updated>
             <summary>
                 <![CDATA[
                     부모 글 : 12월 2주 소망 . 며칠을 소모해서 장착 &amp; 설정 해도, 영상편집이나 게임을 하지 않아서 당장은 큰 쓰임이 없을 거 같다. 앞으로 100기가 이상 자료를 복사할 때는 SSD 끼리가 아니라면 원격으로 낮에 작업을 시키는 게 좋겠다. 너무 오래 시간이 걸려서 직접 하면서 기다리는&hellip;
@@ -66,6 +66,7 @@
             <![CDATA[
                 <p class="msg msg--info">부모 글 : <a href="https://mcdoyaji.github.io/dance_with_me/20nyeon-12weol-duljjae-ju-somang.html">12월 2주 소망</a> . <br><br>며칠을 소모해서 장착 &amp; 설정 해도, 영상편집이나 게임을 하지 않아서 당장은 큰 쓰임이 없을 거 같다. 앞으로 100기가 이상 자료를 복사할 때는 SSD 끼리가 아니라면 원격으로 낮에 작업을 시키는 게 좋겠다. 너무 오래 시간이 걸려서 직접 하면서 기다리는 게 시간 낭비다.</p>
 <h3>처리 결과</h3>
+<p>데탑 만 처리했고, 노트북 처리는 못함.</p>
 <h5>데스크탑</h5>
 <table class="table-title" style="border-collapse: collapse; width: 100%; height: 428px;" border="1">
 <tbody>
@@ -79,7 +80,7 @@
 <td style="width: 20%; height: 49px;">1TB(M.2)</td>
 <td style="width: 20%; height: 49px;">OS : 210gb<br>프로그램: 722gb</td>
 <td style="width: 20%; height: 49px;">OS: 유지+Users<br>영상작업: 722gb</td>
-<td style="width: 20%; height: 49px;">Users 에는 문서와 소스들만</td>
+<td style="width: 20%; height: 49px;">Users 에는 임시파일. </td>
 </tr>
 <tr style="height: 74px;">
 <td style="width: 20%; height: 74px;">
@@ -93,7 +94,7 @@
 <td style="width: 20%; height: 10px;">1TB(7200)</td>
 <td style="width: 20%; height: 10px;">게임/사진/프로그램 설치/편집완료된 영상 파일 보관</td>
 <td style="width: 20%; height: 10px;">
-<p>기존 +<br>클라우드 동기화</p>
+<p>기존 <br>+ 개발소스 +<br>클라우드 동기화</p>
 </td>
 <td style="width: 20%; height: 10px;">gdrive, ondrive 등<br>ondrive 1TB 짜리 연동</td>
 </tr>
