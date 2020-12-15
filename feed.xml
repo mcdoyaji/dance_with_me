@@ -3,7 +3,7 @@
     <title>나랑 같이 춤추자</title>
     <link href="https://mcdoyaji.github.io/dance_with_me/feed.xml" rel="self" />
     <link href="https://mcdoyaji.github.io/dance_with_me" />
-    <updated>2020-12-14T23:41:48+09:00</updated>
+    <updated>2020-12-16T08:30:57+09:00</updated>
     <author>
         <name>훈복</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://mcdoyaji.github.io/dance_with_me/peuljeg-giban-dandanhi-jabgi.html"/>
         <id>https://mcdoyaji.github.io/dance_with_me/peuljeg-giban-dandanhi-jabgi.html</id>
 
-        <updated>2020-12-14T23:32:17+09:00</updated>
+        <updated>2020-12-16T08:30:39+09:00</updated>
             <summary>
                 <![CDATA[
                     부모 글 : 12월 2주 소망 . 12월 3주 소망 내용 처리 중 안 끝났음 초급에게 일을 나눠주려고 하는데, 모든화면 + 기본 API 통신 방법은 제공해야 함. 핵심 기능인 채팅을 하려는데 2주 중 1주를 서버 오류로 삽질만 함. - vue-api-query + vuex store action 결합&hellip;
@@ -57,7 +57,7 @@
         <id>https://mcdoyaji.github.io/dance_with_me/20nyeon-12weol-duljjae-ju-somang-2.html</id>
             <category term="소망"/>
 
-        <updated>2020-12-14T23:07:22+09:00</updated>
+        <updated>2020-12-16T08:30:35+09:00</updated>
             <summary>
                 <![CDATA[
                     소망 목록일 관련하는 일 앞으로 탄탄히 할 수 있는 기반 구축채팅 목록 + 채팅화면. 이게 핵심이고 이후로는 그냥 rest 호출해서 붙이는 노가다.이번 주 안에 기능 작동 시켜야 함. 아 다시 숨이 막히네.하도급 건 마무리연락이 안오기를 이대로 마무리 하기를 제발. 바쁜 시기에 연락주지 않기를….대금 받기서류? 그래&hellip;
@@ -132,7 +132,7 @@
             <category term="무너짐"/>
             <category term="마음"/>
 
-        <updated>2020-12-08T00:54:25+09:00</updated>
+        <updated>2020-12-16T08:30:44+09:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mcdoyaji.github.io/dance_with_me/media/posts/10/khamkeo-vilaysing-NFCD4tjImKo-unsplash.jpg" alt="" />
@@ -170,7 +170,7 @@
             <category term="하도급"/>
             <category term="소망"/>
 
-        <updated>2020-12-14T22:50:52+09:00</updated>
+        <updated>2020-12-16T08:30:48+09:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mcdoyaji.github.io/dance_with_me/media/posts/8/emile-guillemot-tfFWBhEACcQ-unsplash.jpg" alt="" />
@@ -212,7 +212,7 @@
             <category term="소망"/>
             <category term="블프"/>
 
-        <updated>2020-12-14T23:41:48+09:00</updated>
+        <updated>2020-12-16T08:30:53+09:00</updated>
             <summary>
                 <![CDATA[
                     부모 글 : 12월 2주 소망 . 며칠을 소모해서 장착 &amp; 설정 해도, 영상편집이나 게임을 하지 않아서 당장은 큰 쓰임이 없을 거 같다. 라고 했는데 싸펑 2077 구매욕구가 도졌네. 용량이 더 커진 것 보다, 문서, 영상, 사진, 음악을 Users 에서 분리해 별도의 폴더에 모아놓은 것에&hellip;
@@ -382,7 +382,7 @@
         <id>https://mcdoyaji.github.io/dance_with_me/20nyeon-12weol-duljjae-ju-somang.html</id>
             <category term="소망"/>
 
-        <updated>2020-12-06T21:43:53+09:00</updated>
+        <updated>2020-12-16T08:30:57+09:00</updated>
             <summary>
                 <![CDATA[
                     소망 목록일 관련하는 일 앞으로 탄탄히 할 수 있는 기반 구축로그인, vuex + vue-api-query채팅, websocket + vuex + vue-api-query남은 모든 복잡한 팝업 다이얼로그 - 초급 일 시키기 위해서.하도급 건 마무리검수할 시간 한~참 지나서 검수하는 바람에 지금 하는 일과 겹쳐서 이중고잠 12시 전에 자기옆집 자꾸 12~1시&hellip;
