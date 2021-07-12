@@ -1,0 +1,40 @@
+{
+  "headerNavigation": [
+    {
+      "name": "홈",
+      "link": "/",
+      "external": false
+    },
+    {
+      "name": "관하여",
+      "link": "/about",
+      "external": false
+    },
+    {
+      "name": "Getting started",
+      "link": "/category/getting-started",
+      "external": false
+    }
+  ],
+  "footerNavigation": [{
+      "name": "최신 글",
+      "link": "/",
+      "external" : false
+    },
+    {
+      "name": "페북",
+      "link": "https://www.facebook.com",
+      "external": true
+    },
+    {
+      "name": "그리드섬",
+      "link": "https://www.gridsome.org",
+      "external": true
+    },
+    {
+      "name": "RSS",
+      "link": "/rss.xml",
+      "external": false
+    }
+  ]
+}

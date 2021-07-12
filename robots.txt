@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://mcdoyaji.github.io/dance_with_me/sitemap.xml
