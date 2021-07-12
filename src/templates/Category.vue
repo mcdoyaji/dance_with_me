@@ -39,7 +39,7 @@
     category(id: $id) {
       title
       path
-      belongsTo(perPage: 2, page: $page) @paginate {
+      belongsTo(sortBy: "created", order: DESC, perPage: 2, page: $page) @paginate {
         totalCount
         pageInfo {
           totalPages
@@ -47,7 +47,7 @@
         }
         edges {
           node {
-            ... on Blog {
+            ... on Blog{
               title
               excerpt
               image(width:800)
