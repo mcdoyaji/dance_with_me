@@ -50,7 +50,7 @@
         <g-image :src="$page.blog.image"></g-image>
       </section>
 
-      <div class="lg:mx-32 md:mx-16 px-4 sm:px-0">
+      <div class="lg:mx-32 md:mx-16 px-4 sm:px-0 mt-6">
         <section class="post-content container mx-auto relative font-serif text-gray-700">
           <div class="post-content-text text-xl" v-html="$page.blog.content"></div>
         </section>
