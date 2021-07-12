@@ -8,6 +8,11 @@ blockquote {
   }
 }
 
+.post-content ul, ol, p {
+  margin-bottom: 20px;
+}
+
+
 pre {
   @apply border-l border-l-2 border-l-gray-500 pl-4 mt-4 text-base break-words overflow-x-auto;
 }

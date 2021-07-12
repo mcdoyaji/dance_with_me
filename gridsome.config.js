@@ -5,9 +5,9 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Casper',
-  siteDescription: 'an awesome Gridsome starter kit',
-  siteUrl: 'http://localhost:8080',
+  siteName: '도야지 생각지',
+  siteDescription: '도야지가 길게 이야기를 쓰고 싶을 때 들리는 곳',
+  siteUrl: 'mcodyaji.netlify.app',
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
